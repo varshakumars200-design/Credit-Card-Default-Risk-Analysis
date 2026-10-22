@@ -25,7 +25,6 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook
 7. Divided customers into Low, Medium and High risk groups
 
 ## Model Comparison
-![Model Comparison](comparison.png)
 
 | Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
 |---|---|---|---|---|---|
@@ -48,7 +47,6 @@ drops from 54% to 43%, so the bank has to decide how many false alarms it can ha
 model.
 
 ## Risk Groups
-![Risk Segments](risk_segments.png)
 
 | Risk Level | Customers | Actual Default Rate |
 |---|---|---|
