@@ -2,7 +2,7 @@
 
 I made this project to understand how a bank can find out, in advance, which credit card customers are likely to miss their
 payment next month. I came from a Political Science background, so this was also a project to practice the full machine
-I came from a Political Science background, so this was also a project learning workflow on my own.
+learning workflow on my own.
 
 ## Problem
 When a customer defaults, the bank loses money. If the bank can spot risky customers early, it can send reminders or 
